@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Parameters>
+	<NumberBars>10</NumberBars>
+	<InitialNote>E4</InitialNote>
+	<RandomSeed>0</RandomSeed>
+	<OutputFile>melody.dat</OutputFile>
+</Parameters>
